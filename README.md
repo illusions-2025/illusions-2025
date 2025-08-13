@@ -22,13 +22,17 @@ The following are some optical illusions that can be relatively easily recreated
 
 ## p5.js
 
-[p5.js](https://p5js.org) is JavaScript version of the Processing and one of the big advantages is that p5.js sketches works natively on the web!  Your students can show case their work on their own web pages without alteration.
+[p5.js](https://p5js.org) is JavaScript version of the Processing and one of the big advantages is that p5.js sketches works natively on the web!  Your students can show case their work on their own web pages without alteration. [p5.js](https://p5js.org) is a great place to find details on references. 
 
 While this particular talk uses p5.js, the methodology can be adapted to use other members of the [processing family](https://processing.org).  Thus if you happen to teach Python or Java, you can adapt these to use processing.py or processing.
 
 ## Recreating your own Illusions:
 
 [Start here to get your starter code](https://classroom.github.com/a/rdVTTHqT)
+
+## Solutions:
+
+The code for these illusions can be found in the docs folder of this repository
 
 ### Option A: Work in the browser, 
 
