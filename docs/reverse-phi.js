@@ -1,24 +1,26 @@
 
-let drawGridCheckBox;
-let drawDotsCheckBox;
-//this function is called once at the start of a sketch
-let bgColour = 0;
+let frameRateSlider;
+
 let flowerColour = 255;
 let numFrames = 20;
 let flowerDirection = -1;
-let bgDirection = 1;
 let frameCount = 0;
+
+//this function is called once at the start of a sketch
 function setup() {
     //create a drawing surface on to the web page
     //this drawing surface is 1000 X 600
     canvas = createCanvas(600,300);
     canvas.position(20,20);
-    //create the checkbox for drawing 
-    //checkerbox and dots.  if both on, then illusion is formed    
-    drawGridCheckBox = createCheckbox("Draw Checkboard ",true);
-    drawGridCheckBox.position(920,20);
-    drawDotsCheckBox = createCheckbox("Draw Dots ", true);
-    drawDotsCheckBox.position(920,40);
+    label = createSpan('FrameRate:');
+    label.position(625, 20);
+
+    //make a slider to control the frameRate
+    frameRateSlider = createSlider(1, 60, 60);
+    frameRateSlider.position(625,50);
+    frameRateSlider.size(80);
+
+
     //by default positional information in processing
     //are defined as the position of the top left "corner"
     //of the shape.  For our purposes it is much simpler
@@ -77,9 +79,9 @@ function draw() {
     flowerColour += flowerDirection * change;
     frameCount += 1;
     if(frameCount == numFrames){
-        bgDirection *=-1;
         flowerDirection*=-1;
         frameCount = 0;
     }
+    frameRate(frameRateSlider.value());
     //noLoop();
 }
