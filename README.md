@@ -4,6 +4,10 @@
 
 The optical illusions are recreated from [the work of Akiyoshi Kitaoka](https://www.ritsumei.ac.jp/~akitaoka/index-e.html).
 
+## This material is available online at:
+
+https://github.com/illusions-2025/illusions-2025
+
 ## The Illusions
 
 **WARNING - Some of these illusions may cause motion sickness.  If you feel dizzy please navigate away. One of the illusions below have a "strobe light" like effect and have been marked as such in the description.**
