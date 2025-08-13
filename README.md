@@ -26,9 +26,39 @@ The following are some optical illusions that can be relatively easily recreated
 
 While this particular talk uses p5.js, the methodology can be adapted to use other members of the [processing family](https://processing.org).  Thus if you happen to teach Python or Java, you can adapt these to use processing.py or processing.
 
-## Recreating your own:
+## Recreating your own Illusions:
 
 [Start here to get your starter code]()
+
+## Turn on github pages.
+
+Written details here: https://github.com/cemc-ghpages/cemc-2024
+
+
+## Delivering this workshop with your students:
+
+### Option A: Just use this repo
+
+Just provide them with the URL to this page ...
+
+#### Advantage:
+* easy... no setup
+
+#### Disadvantage
+* all work will be created in this organization and it will be public. (note that unless you update your org you would need the repos to be public to use github pages)... and it will be in an org that you don't have access to directly for settings control
+* all of these instructions are going to be here... so that might get confusing for your students.
+
+### Option B: Duplicate and edit your own version!
+
+1. Create a github organization
+2. Duplicate this repo and the starter file repos:
+  * Go to: https://github.com/illusions-2025/illusions-2025/ and click on the "use this template" button on the top right of the page to create a new repo in the github organization you just made
+  * Go to https://github.com/illusions-2025/demotemplate and click on the "use this template" button on the top right of the page to create a second repo containing the demostarter code that you can give to your students
+3. Change settings in the demotemplate under your organization so that it becomes a template.  Note that this will need to be public if you do not want to manage access
+4. **OPTIONAL**: Set up an assignment creation link using github classroom.  Details can be found here https://seneca-ictoer.github.io/githubteachingtools/
+5. Edit the README.md file in first repo.
+  * If you created a classroom link change the url on line 31 to use the classsroom link, then erase all lines after that (these instructions)
+  * If you did not create a link erase all lines starting at line 29.  Provide a link to your demotemplate and just tell students to use the "use this template" button to make their copy of the starter files into their own account.
 
 
 
