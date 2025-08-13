@@ -10,7 +10,7 @@ function setup() {
     canvas = createCanvas(1000,600);
 
     //move canvas to make way for radio buttons
-    canvas.position(0,50);
+    canvas.position(20,20);
 
     //create the radio buttons that will allow us 
     //to choose between all black, all white and
@@ -22,7 +22,7 @@ function setup() {
     colourMode.option("0","illusion");
 
     colourMode.selected("2");
-    colourMode.position(0,0);
+    colourMode.position(1020,20);
 
     //by default positional information in processing
     //are defined as the position of the top left "corner"
