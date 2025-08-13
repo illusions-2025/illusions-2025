@@ -30,10 +30,22 @@ While this particular talk uses p5.js, the methodology can be adapted to use oth
 
 [Start here to get your starter code](https://classroom.github.com/a/rdVTTHqT)
 
-## Turn on github pages.
+### Option A: Work in the browser, 
 
-Written details here: https://github.com/cemc-ghpages/cemc-2024
+#### Advantage:
+* no need to install software
+* this is great for chromebooks or when you don't have access to a good editor.
 
+#### Disadvantage
+* your editor is only what github provides as its two editors... tooling is limited
+* a bit slow from time you save your code till publish becomes live
+
+#### Steps:
+
+* Turn on github pages. Written details here: https://github.com/cemc-ghpages/cemc-2024
+* Use the pencil icon to edit your code (note
+
+### 
 
 ## Delivering this workshop with your students:
 
