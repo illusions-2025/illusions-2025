@@ -10,10 +10,10 @@ The optical illusions are recreated from [the work of Akiyoshi Kitaoka](https://
 
 The following are some optical illusions that can be relatively easily recreated
 
-* [slant]() - horizontal lines of circles appears to be slanted
-* [bulge]() - a set of squares appear to have a bulge in the middle
-* [rolling grid]() - a 2D grid appears to be waving
-* [reverse-phi]() - **WARNING, has a bit of a strobe light** a ring of ovals appear to rotate
+* [slants](https://illusions-2025.github.io/illusions-2025/slants.html) - horizontal lines of circles appears to be slanted
+* [bulge](https://illusions-2025.github.io/illusions-2025/bulge.html) - a set of squares appear to have a bulge in the middle
+* [wave](https://illusions-2025.github.io/illusions-2025/wave.html) - a 2D grid appears to be waving
+* [reverse-phi](https://illusions-2025.github.io/illusions-2025/reverse-phi.html) - **WARNING, has a bit of a strobe light** a ring of ovals appear to rotate
 
 ## Why these?
 
