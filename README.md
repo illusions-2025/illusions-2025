@@ -28,7 +28,7 @@ While this particular talk uses p5.js, the methodology can be adapted to use oth
 
 ## Recreating your own Illusions:
 
-[Start here to get your starter code]()
+[Start here to get your starter code](https://classroom.github.com/a/rdVTTHqT)
 
 ## Turn on github pages.
 
