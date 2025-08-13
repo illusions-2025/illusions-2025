@@ -43,9 +43,21 @@ While this particular talk uses p5.js, the methodology can be adapted to use oth
 #### Steps:
 
 * Turn on github pages. Written details here: https://github.com/cemc-ghpages/cemc-2024
-* Use the pencil icon to edit your code (note
+* Use the pencil icon to edit your code (note that pencil icon allows you to choose the plain editor or the vs code like editor...its not full vs.
 
-### 
+### Work offline on your own computer
+
+#### Advantage:
+* a familiar editor/IDE environment
+* Quick turn around from saving file to seeing results (just point your browser at your html file)
+
+#### Disadvantage
+* no publishing unless you push your code back into your repo and setup github pages
+
+#### Steps:
+* clone this repo (or just download it)
+* unzip if needed, then open editor/browser to the appropriate files.
+
 
 ## Delivering this workshop with your students:
 
